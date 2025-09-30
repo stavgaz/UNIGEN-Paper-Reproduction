@@ -7,7 +7,7 @@ via Zero-shot Dataset Generation**\
 *(Choi et al., EMNLP 2024)*
 
 Conducted at the **National Technical University of Athens (NTUA)**,
-DSML (Data Science and Machine Learning), 2024--25.\
+DSML (Data Science and Machine Learning), 2024-25.\
 Author: **Stavros Gazetas** (stavrosgazetas@mail.ntua.gr)
 
 ------------------------------------------------------------------------
