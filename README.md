@@ -26,9 +26,9 @@ using GPT-2 Large (774M parameters) instead of GPT-2 XL, and generating
 
 ## Method
 
--   Universal dataset generation with a domain-agnostic prompt\
+-   Universal dataset generation with a domain-agnostic prompt
 -   Noise reduction via **soft relabeling**, **denoising memory bank**,
-    and **supervised contrastive learning**\
+    and **supervised contrastive learning**
 -   Evaluation with multiple TAMs: **LSTM, CNN, DistilBERT, RoBERTa,
     TinyBERT**
 
@@ -37,10 +37,10 @@ using GPT-2 Large (774M parameters) instead of GPT-2 XL, and generating
 ## Results
 
 -   UNIGEN demonstrated strong **cross-domain generalization** even at
-    smaller scale\
+    smaller scale
 -   **DistilBERT and RoBERTa** TAMs were competitive with or superior to
-    baselines (ZEROGEN, SUNGEN)\
--   **TinyBERT** showed promising results under limited resources\
+    baselines (ZEROGEN, SUNGEN)
+-   **TinyBERT** showed promising results under limited resources
 -   **LSTM and TextCNN** underperformed, confirming the importance of
     pretrained models
 
